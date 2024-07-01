@@ -1,1 +1,2 @@
-C:\IdeaProjects\rsschool-cv
+#### Viktar Karahoda
+### Java Developer

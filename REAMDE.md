@@ -1,1 +1,0 @@
-C:\IdeaProjects\rsschool-cv

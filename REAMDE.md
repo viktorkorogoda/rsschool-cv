@@ -1,1 +1,1 @@
-C:\IdeaProjects\rsschool-cv
+https://viktorkorogoda.github.io/rsschool-cv/cv
